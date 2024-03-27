@@ -1,0 +1,1 @@
+const e=["Employé / Ouvrier","Cadre","Commerçant","Fonctionnaire","Retraité","Agriculteur","Chef d'entreprise","Profession libérale","Etudiant","Sans profession","Recherche d'emploi","Autre"],r=["Général","Travailleur non salarié","Agricole","Alsace-Moselle"];export{e as p,r};
